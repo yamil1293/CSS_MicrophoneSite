@@ -4,9 +4,7 @@
 [![Build Status][travis-image]][travis-url]
 	
 	https://yamilburgos.github.io/MicrophoneSite/
-
-  https://yamilburgos.github.io/MicrophoneSite
-
+	
 ![](demo.png)
 
 ## Meta
